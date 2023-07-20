@@ -1,0 +1,15 @@
+/home/jules/jules/bin/Debug/net7.0/jules
+/home/jules/jules/bin/Debug/net7.0/jules.deps.json
+/home/jules/jules/bin/Debug/net7.0/jules.runtimeconfig.json
+/home/jules/jules/bin/Debug/net7.0/jules.dll
+/home/jules/jules/bin/Debug/net7.0/jules.pdb
+/home/jules/jules/obj/Debug/net7.0/jules.csproj.AssemblyReference.cache
+/home/jules/jules/obj/Debug/net7.0/jules.GeneratedMSBuildEditorConfig.editorconfig
+/home/jules/jules/obj/Debug/net7.0/jules.AssemblyInfoInputs.cache
+/home/jules/jules/obj/Debug/net7.0/jules.AssemblyInfo.cs
+/home/jules/jules/obj/Debug/net7.0/jules.csproj.CoreCompileInputs.cache
+/home/jules/jules/obj/Debug/net7.0/jules.dll
+/home/jules/jules/obj/Debug/net7.0/refint/jules.dll
+/home/jules/jules/obj/Debug/net7.0/jules.pdb
+/home/jules/jules/obj/Debug/net7.0/jules.genruntimeconfig.cache
+/home/jules/jules/obj/Debug/net7.0/ref/jules.dll
